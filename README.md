@@ -15,9 +15,13 @@ This requires the following:
 
 ## Building the Project
 These instructions assume a computer running Windows, with VS2015.
+
 Clone or download the repository to your computer. Locate the .uproject file and right-click on it.
+
 Select "Generate Visual Studio project files"
+
 After generation has completed, double-click the .uproject file, and select the version of Unreal Engine 4 to build for.
+
 Click "OK"
 
 The necessary files should now be generated, and you should be able to open up the project in Unreal Engine 4.
